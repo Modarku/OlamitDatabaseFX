@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>CSIT228_F1_v2</artifactId>
+    <artifactId>OlamitDBFX</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>CSIT228_F1_v2</name>
 
@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.example.csit228_f1_v2/com.example.csit228_f1_v2.HelloApplication</mainClass>
+                            <mainClass>com.example.csit228_f1_v2/com.example.olamitdbfx.HelloApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
